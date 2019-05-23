@@ -1,0 +1,32 @@
+{
+  "fields": [
+    {
+      "id": 1,
+      "name": "Food"
+    },
+    {
+      "id": 2,
+      "name": "Bills"
+    },
+    {
+      "name": "Kids 3",
+      "id": 3,
+      "modifiedAt": 1558617622747
+    },
+    {
+      "id": 11,
+      "name": "Kids 11",
+      "modifiedAt": 1558617599964
+    }
+  ],
+  "spends": [
+    {
+      "id": 1,
+      "count": 12.5
+    },
+    {
+      "id": 2,
+      "count": 120.33
+    }
+  ]
+}
